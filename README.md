@@ -1,2 +1,8 @@
 # dyyap-github.io
-Bootstrap Ruby on Rails
+
+
+SD Hacks Project MyKitchenLife
+
+version 1.0
+
+
